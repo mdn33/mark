@@ -4,8 +4,7 @@
 
 
 ```
-var add2 = function(number) {
-  return number + 2;
-}
+git status
+git add
+git commit
 ```
-
