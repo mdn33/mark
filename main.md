@@ -7,4 +7,4 @@
 ## Piccolo
 ### Piccolino
 
-[altro test](https://github.com/mdn33/mark/edit/main/test)
+[altro test](test.md)
