@@ -4,7 +4,5 @@
 
 
 ```
-git status
-git add
-git commit
+SELECT * FROM TABLE
 ```
